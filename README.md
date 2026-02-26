@@ -25,6 +25,7 @@ L'une des particularités techniques du projet est la gestion des boucliers :
 Le stock de boucliers est sérialisé et stocké dans un fichier JSON.
 Cette architecture impose au joueur une utilisation stratégique de ses ressources, car le stock est limité et persistant.
 Dans le fichier JSON le score estaussi stocké pour ammener de la competitivité dans le jeu.
+
 💻 Technologies Utilisées
 Langage : Python 
 Bibliothèque Graphique : Pygame 
