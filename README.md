@@ -36,4 +36,4 @@ Assurez-vous d'avoir Python installé sur votre machine.
 Installez la bibliothèque Pygame :
 pip install pygame
 Lancez le script principal :
-python Interstellaire_AMDE_ABBA_ADJI.py
+Interstellaire_AMDE_ABBA_ADJI.py
